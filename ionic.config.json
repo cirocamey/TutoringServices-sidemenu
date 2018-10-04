@@ -1,0 +1,7 @@
+{
+  "name": "TutoringServices-sidemenu",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
